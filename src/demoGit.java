@@ -6,6 +6,8 @@ public class demoGit {
         System.out.println("hello world!02");
         System.out.println("hello world!03");
         System.out.println("hello world!04");
+        System.out.println("hello world!05");
+        System.out.println("hello world!06");
 
     }
 
